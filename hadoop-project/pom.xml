@@ -381,7 +381,7 @@
       <dependency>
         <groupId>com.sun.jersey.jersey-test-framework</groupId>
         <artifactId>jersey-test-framework-core</artifactId>
-        <version>1.8</version>
+        <version>1.19.4</version>
         <scope>test</scope>
       </dependency>
       <dependency>
